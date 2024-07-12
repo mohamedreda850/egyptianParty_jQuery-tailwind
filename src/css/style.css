@@ -1,0 +1,11 @@
+.home{
+    background-image:url(./../assets/images/events-heavenly-header.jpg) ;
+    background-position: center;
+    background-size: cover;
+}
+
+.timer{
+    background-image: url(./../assets/images/invitation-2508607__340.jpg);
+    background-position: center ;
+    background-size: cover;
+}
